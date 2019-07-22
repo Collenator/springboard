@@ -1,2 +1,2 @@
-# springboard
-All my Springboard work
+# Springboard Mini Projects
+A few projects in SQL, API's, & JSON
